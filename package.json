@@ -1,0 +1,34 @@
+{
+  "name": "mitsubishi-h8-539-rom-scraper",
+  "version": "0.0.1",
+  "description": "Command line NodeJS tool to scrape H8/539-based Mitsubishi ROMs for tables",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console-stamp": "^0.2.9",
+    "printf": "^0.6.0",
+    "regex-parser": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasongaunt/mitsubishi-h8-539-rom-scraper.git"
+  },
+  "keywords": [
+    "mitsubishi",
+    "hitachi",
+    "H8",
+    "H8/539",
+    "MH7202F",
+    "MH7203FA"
+  ],
+  "author": "Jason Gaunt",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jasongaunt/mitsubishi-h8-539-rom-scraper/issues"
+  },
+  "homepage": "https://github.com/jasongaunt/mitsubishi-h8-539-rom-scraper#readme"
+}
